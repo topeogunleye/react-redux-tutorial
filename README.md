@@ -1,5 +1,5 @@
-# math-magicians
-> A Single Page App (SPA) that allows users to Make simple calculations and read a random math-related quote.
+# React Redux Tutorial
+>I bulit this application while following React Redux Tutorial Application
 
   
 ![](https://img.shields.io/badge/Microverse-blueviolet)
